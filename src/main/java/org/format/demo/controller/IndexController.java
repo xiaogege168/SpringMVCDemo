@@ -41,7 +41,7 @@ public class IndexController {
         SHA256:rGpAPZRiUzN5wlCN6UM4ud6NuXOtzO1KwOHjQ7p7MYw Administrator@MS-20180131BXRT
         The key's randomart image is:
         +---[RSA 3072]----+
-        |  .B=*           |
+        |  .B=*           |7777
         |  B Xoo          |
         | . X.o           |
         |  oo=. .         |
